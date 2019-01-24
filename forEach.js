@@ -1,4 +1,7 @@
 //a simple example of using forEach 
+//These codes should be runned in the https://stephengrider.github.io/JSPlaygrounds/ browser. Otherwise some changes should be made for running in another code executer.
+
+
 var colors=['red','green','blue'];
 
 for (var i=0; i < colors.length; i++) {
@@ -38,7 +41,7 @@ var doubleNumbers = [];
 for(var i=0; i< numbers.length; i++){
     doubleNumbers.push(numbers[i] * 2);
 }
-doubleNumbers;
+doubleNumbers; 
 
 
 
