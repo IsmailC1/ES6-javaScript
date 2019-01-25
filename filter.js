@@ -1,4 +1,7 @@
 // example of method called filter
+//These codes should be runned in the https://stephengrider.github.io/JSPlaygrounds/ browser. Otherwise some changes should be made for running in another code executer.
+
+
 var products = [
     {name: 'cucumber', type: 'vegetable'},
     {name: 'banana', type: 'fruit'},
